@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-#By Robocyber
+#By github.com/humblelad
 import sys
 import urllib.request
 import urllib.parse
